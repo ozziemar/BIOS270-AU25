@@ -1,4 +1,4 @@
-# Write-up 0: template
+# Write-up 3: Pipeline
 
 **Name:** Ozzie Martinez 
 **Student ID:** ozzie  
