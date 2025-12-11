@@ -11,8 +11,7 @@
 Tried to get through steps 1-3, however, I kept having issues making the Bakta annotation and wasn't able to get farther. Additionally, I kept losing access to farmshare which made getting through step 1 difficult. I wrote a script for step 4 assuming it had worked.
 
 Step 4 Script:
-#!/usr/bin/env python3
-
+#
 import argparse
 from collections import defaultdict
 import matplotlib.pyplot as plt
