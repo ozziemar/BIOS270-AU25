@@ -1,4 +1,4 @@
-# Write-up 3: Pipeline
+# Write-up 3: Data
 
 **Name:** Ozzie Martinez 
 **Student ID:** ozzie  
